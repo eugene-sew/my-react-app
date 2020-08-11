@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.f84e3ef8.chunk.css",
+    "main.js": "/my-react-app/static/js/main.f07e1bdc.chunk.js",
+    "main.js.map": "/my-react-app/static/js/main.f07e1bdc.chunk.js.map",
+    "runtime-main.js": "/my-react-app/static/js/runtime-main.c0584337.js",
+    "runtime-main.js.map": "/my-react-app/static/js/runtime-main.c0584337.js.map",
+    "static/js/2.ed278bc0.chunk.js": "/my-react-app/static/js/2.ed278bc0.chunk.js",
+    "static/js/2.ed278bc0.chunk.js.map": "/my-react-app/static/js/2.ed278bc0.chunk.js.map",
+    "index.html": "/my-react-app/index.html",
+    "precache-manifest.1dde374660f878c1e47fe31b30b05273.js": "/my-react-app/precache-manifest.1dde374660f878c1e47fe31b30b05273.js",
+    "service-worker.js": "/my-react-app/service-worker.js",
+    "static/css/main.f84e3ef8.chunk.css.map": "/my-react-app/static/css/main.f84e3ef8.chunk.css.map",
+    "static/js/2.ed278bc0.chunk.js.LICENSE.txt": "/my-react-app/static/js/2.ed278bc0.chunk.js.LICENSE.txt",
+    "static/media/card1.png": "/my-react-app/static/media/card1.f1371a64.png",
+    "static/media/card2.png": "/my-react-app/static/media/card2.9910efa2.png",
+    "static/media/card3.jpg": "/my-react-app/static/media/card3.22ac71de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0584337.js",
+    "static/js/2.ed278bc0.chunk.js",
+    "static/css/main.f84e3ef8.chunk.css",
+    "static/js/main.f07e1bdc.chunk.js"
+  ]
+}
